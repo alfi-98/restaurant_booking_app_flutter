@@ -2,8 +2,10 @@
 
 A new Flutter project.A simple UI design of an app where people can book restaurant seats through the app.
 
+<img width="322" alt="tb1" src="https://user-images.githubusercontent.com/66726759/143064898-4d136e67-cffd-4535-bcba-615d35e4609f.png">
 
-https://user-images.githubusercontent.com/66726759/143063808-b15c2528-0338-48de-80a8-fede09541206.mov
+<img width="322" alt="tb2" src="https://user-images.githubusercontent.com/66726759/143064904-c11051a5-13c2-4076-b89b-054f84e96700.png">
+
 
 Future works : 
 1. Would like to make it more interactive
